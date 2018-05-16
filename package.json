@@ -1,0 +1,22 @@
+{
+  "name": "Vacation Planner",
+  "version": "1.0.0",
+  "description": "Landing page for a booking engine desgined using CSS Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnperera/vacation-planner.git"
+  },
+  "author": "Dayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnperera/vacation-planner/issues"
+  },
+  "homepage": "https://github.com/dnperera/vacation-planner",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
